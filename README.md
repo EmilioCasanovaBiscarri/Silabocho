@@ -117,11 +117,11 @@ Cómo trabaja:
 
 ## Publicación en GitHub Pages
 
-El juego es estático y usa rutas relativas, así que funciona tal cual en `https://joseleking.github.io/Silabocho/`:
+El juego es estático y usa rutas relativas, así que funciona tal cual en `https://emiliocasanovabiscarri.github.io/Silabocho/`:
 
 1. En GitHub: *Settings → Pages → Build and deployment → Source: Deploy from a branch*.
 2. Rama `main`, carpeta `/ (root)`, *Save*.
-3. A los pocos minutos estará en <https://joseleking.github.io/Silabocho/>.
+3. A los pocos minutos estará en <https://emiliocasanovabiscarri.github.io/Silabocho/>.
 
 Para instalarlo en el móvil: abrir la dirección y, en Android (Chrome), *Instalar aplicación*; en iPhone (Safari), *Compartir → Añadir a pantalla de inicio*. La instalación y el modo sin conexión necesitan HTTPS, que GitHub Pages ya da.
 
